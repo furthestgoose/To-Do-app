@@ -12,13 +12,15 @@ Welcome to **My To-Do List App**! This app helps you manage your tasks efficient
 
 ## Screenshots
 
-<img width="457" alt="Screenshot 2024-05-21 at 19 36 01" src="https://github.com/furthestgoose/To-Do-app/assets/77462614/14ca31d8-279d-4f64-b1e9-298f45a2344c">
+![Empty List](https://github.com/furthestgoose/To-Do-app/assets/77462614/14ca31d8-279d-4f64-b1e9-298f45a2344c)
 
-<img width="451" alt="Screenshot 2024-05-21 at 19 43 01" src="https://github.com/furthestgoose/To-Do-app/assets/77462614/0acc7ea9-7362-4603-85d7-7d329653d076">
+![Item Creation](https://github.com/furthestgoose/To-Do-app/assets/77462614/0acc7ea9-7362-4603-85d7-7d329653d076)
 
-<img width="430" alt="Screenshot 2024-05-21 at 19 43 40" src="https://github.com/furthestgoose/To-Do-app/assets/77462614/1f2c4a45-550a-4bb3-bc1b-2483762fdae2">
+![List with item in light mode](https://github.com/furthestgoose/To-Do-app/assets/77462614/1f2c4a45-550a-4bb3-bc1b-2483762fdae2)
 
-<img width="76" alt="Screenshot 2024-05-21 at 19 43 54" src="https://github.com/furthestgoose/To-Do-app/assets/77462614/ca76b4cc-e155-4268-8266-a8d4511a80ab">
+![List with completed item](https://github.com/furthestgoose/To-Do-app/assets/77462614/85b5dd19-0b45-4687-8ca7-27bc0dbcb4bc)
+
+![App on home screen](https://github.com/furthestgoose/To-Do-app/assets/77462614/ca76b4cc-e155-4268-8266-a8d4511a80ab)
 
 ## Getting Started
 
