@@ -38,13 +38,14 @@ To get started with **My To-Do List App**, follow these steps:
 4. Start adding tasks and managing your to-do list!
 
 ### Requirements
-    - A mac running the latest version of Xcode
-    - The simulator/ device to be updated to IOS 17.5
+
+- A mac running the latest version of Xcode
+- The simulator/ device to be updated to IOS 17.5
     
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## Licence
-This project is licenced under the [GPL V3 Licence]()
+This project is licenced under the [GPL V3 Licence](https://github.com/furthestgoose/To-Do-app/blob/master/LICENSE)
 
 
