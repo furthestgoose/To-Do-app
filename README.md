@@ -12,7 +12,9 @@ Welcome to **My To-Do List App**! This app helps you manage your tasks efficient
 
 ## Screenshots
 
-![Screenshot 1]()
+<img width="457" alt="Screenshot 2024-05-21 at 19 36 01" src="https://github.com/furthestgoose/To-Do-app/assets/77462614/14ca31d8-279d-4f64-b1e9-298f45a2344c">
+
+
 ![Screenshot 2]()
 ![Screenshot 3]()
 ![Screenshot 4]()
