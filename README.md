@@ -29,7 +29,7 @@ To get started with **My To-Do List App**, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/to-do-list-app.git
+   git clone https://github.com/furthestgoose/To-Do-app.git
    ```
 2. Open the project in Xcode.
 
